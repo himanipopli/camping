@@ -1,2 +1,2 @@
 # camping
-It is platform where user can share their camping experience to help others.
+It is platform where users can share their camping experiences to help others.
